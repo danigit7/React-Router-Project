@@ -1,0 +1,38 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "React Developer",
+      "salary": 50000,
+      "location": "Islamabad Pakistan"
+    },
+
+    {
+      "id": 2,
+      "title": "Frontend Engineer",
+      "salary": 45000,
+      "location": "Lahore, Pakistan"
+    },
+
+    {
+      "id": 3,
+      "title": "Backend Developer",
+      "salary": 55000,
+      "location": "Karachi, Pakistan"
+    },
+
+    {
+      "id": 4,
+      "title": "Full Stack Developer",
+      "salary": 60000,
+      "location": "Peshawar, Pakistan"
+    },
+    
+    {
+      "id": 5,
+      "title": "UI/UX Designer",
+      "salary": 40000,
+      "location": "Rawalpindi, Pakistan"
+    }
+  ]
+}
